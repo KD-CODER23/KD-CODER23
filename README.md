@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=360&height=44&lines=I%20am%20new%20to%20code%20%3C3;Tech%2C%20Code%2C%20Caffeine" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=I%20am%20new%20to%20code%20%3C3" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **a Arduino LED circuit**  
 🌱 &nbsp;I'm currently learning **Python, basic circuits, and how AI agents work**  
+🔭 &nbsp;I'm currently working on **a Arduino LED circuit**  
 😄 &nbsp;Pronouns: **she/her**
 
 ### 🛠️ Tech Stack
@@ -44,18 +44,3 @@
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/KD-CODER23">KD-CODER23</a></i></p>
-
-<!--
-**KD-CODER23/KD-CODER23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

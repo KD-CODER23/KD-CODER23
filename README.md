@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=I%20am%20new%20to%20code%20%3C3" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=430&height=44&lines=I%20am%20new%20to%20code%20%3C3;I%20am%20a%20high%20school%20student" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
